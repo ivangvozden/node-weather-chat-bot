@@ -1,3 +1,10 @@
+# Users data
+users
+
+# NLP model data
+model.nlp
+model-*.nlp
+
 # Logs
 logs
 *.log
