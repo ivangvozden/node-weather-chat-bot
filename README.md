@@ -1,6 +1,6 @@
 # Messenger Bot exercise
 
-Welcome to weather forecasting bot that will help you get the forecast you need just by sending a message to his [Facebook page](https://www.facebook.com/GBot-264808877479475/).
+Welcome to weather forecasting bot that will tell you the forecast of the location you ask it to!
 
 This web service integrates with three third party platforms:
 
