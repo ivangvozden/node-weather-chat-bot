@@ -1,4 +1,4 @@
-# Weather forecast chat bot
+# Weather forecast chatbot
 
 Welcome to weather forecasting bot that will tell you the forecast of the location you ask it to!
 
