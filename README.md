@@ -6,6 +6,12 @@ Welcome to weather forecasting bot that will tell you the forecast of the locati
 **IMPORTANT:** project is still in development
 ***
 
+## Demo
+
+Coming soon!
+
+***
+
 ## ENV variables
 
 For bot to function properly you need to set the following:
