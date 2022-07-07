@@ -1,4 +1,4 @@
-var Forecast = function (city, timeframe) {
+let Forecast = function (city, timeframe) {
   this.city = city;
   this.timeframe = timeframe;
 }

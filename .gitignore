@@ -2,8 +2,7 @@
 users
 
 # NLP model data
-model.nlp
-model-*.nlp
+nlp
 
 # Logs
 logs
